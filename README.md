@@ -16,7 +16,7 @@
 ### 🛠️ Instalación
 Para la versión de usuario final (Recomendado):
 1. Descarga el ejecutable oficial desde la sección de **Releases**.
-2. Ejecuta el archivo `GConverters_Premium.exe`.
+2. Ejecuta el archivo `GConverters_Premium_v1.0_Setup.exe`.
 3. ¡Listo! Ya puedes empezar a procesar tus archivos con total libertad.
 
 *Nota: Requiere Windows 10 o superior.*
